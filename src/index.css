@@ -1,0 +1,16 @@
+body,
+h1 {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
+    Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+}
+
+.ais-SearchBox { margin: 1em 0; }
+.ais-Pagination { margin-top: 1em }
+.ais-ClearRefinements { margin: 1em 0; }
+.left-panel { float: left; width: 250px; }
+.right-panel { margin-left: 260px; }
